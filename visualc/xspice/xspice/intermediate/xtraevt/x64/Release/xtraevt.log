@@ -1,0 +1,57 @@
+﻿  generate cfunc.c and ifspec.c files
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the file specified.
+  The system cannot find the file specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the file specified.
+  The system cannot find the file specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the file specified.
+  The system cannot find the file specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the file specified.
+  The system cannot find the file specified.
+          1 file(s) copied.
+          1 file(s) copied.
+  dstring.c
+  d_to_real-cfunc.c
+  d_to_real-ifspec.c
+  int-udnfunc.c
+\icm\xtraevt\d_to_real\d_to_real-cfunc.c(1,1): error C1083: Cannot open source file: 'icm\xtraevt\d_to_real\d_to_real-cfunc.c': No such file or directory
+  (compiling source file '/icm/xtraevt/d_to_real/d_to_real-cfunc.c')
+  
+\icm\xtraevt\d_to_real\d_to_real-ifspec.c(1,1): error C1083: Cannot open source file: 'icm\xtraevt\d_to_real\d_to_real-ifspec.c': No such file or directory
+  (compiling source file '/icm/xtraevt/d_to_real/d_to_real-ifspec.c')
+  
+  real-udnfunc.c
+  real_delay-cfunc.c
+\icm\xtraevt\real_delay\real_delay-cfunc.c(1,1): error C1083: Cannot open source file: 'icm\xtraevt\real_delay\real_delay-cfunc.c': No such file or directory
+  (compiling source file '/icm/xtraevt/real_delay/real_delay-cfunc.c')
+  
+  real_delay-ifspec.c
+\icm\xtraevt\real_delay\real_delay-ifspec.c(1,1): error C1083: Cannot open source file: 'icm\xtraevt\real_delay\real_delay-ifspec.c': No such file or directory
+  (compiling source file '/icm/xtraevt/real_delay/real_delay-ifspec.c')
+  
+  real_gain-cfunc.c
+\icm\xtraevt\real_gain\real_gain-cfunc.c(1,1): error C1083: Cannot open source file: 'icm\xtraevt\real_gain\real_gain-cfunc.c': No such file or directory
+  (compiling source file '/icm/xtraevt/real_gain/real_gain-cfunc.c')
+  
+  real_gain-ifspec.c
+\icm\xtraevt\real_gain\real_gain-ifspec.c(1,1): error C1083: Cannot open source file: 'icm\xtraevt\real_gain\real_gain-ifspec.c': No such file or directory
+  (compiling source file '/icm/xtraevt/real_gain/real_gain-ifspec.c')
+  
+  real_to_v-cfunc.c
+\icm\xtraevt\real_to_v\real_to_v-cfunc.c(1,1): error C1083: Cannot open source file: 'icm\xtraevt\real_to_v\real_to_v-cfunc.c': No such file or directory
+  (compiling source file '/icm/xtraevt/real_to_v/real_to_v-cfunc.c')
+  
+  real_to_v-ifspec.c
+\icm\xtraevt\real_to_v\real_to_v-ifspec.c(1,1): error C1083: Cannot open source file: 'icm\xtraevt\real_to_v\real_to_v-ifspec.c': No such file or directory
+  (compiling source file '/icm/xtraevt/real_to_v/real_to_v-ifspec.c')
+  
+  dlmain.c
+D:\src\fritzing\fritzing-app\ngspice-42\src\xspice\icm\dlmain.c(23,10): error C1083: Cannot open include file: 'cmextrn.h': No such file or directory
