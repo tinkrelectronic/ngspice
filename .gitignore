@@ -2,7 +2,7 @@
 .qmake.cache
 .qmake.stash
 
-Makefile*
+#Makefile*
 
 phoenix.qtvscr
 phoenix.pro.user
